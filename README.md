@@ -54,7 +54,7 @@ The final simulation showed that the controller:
 
 ## Full Writeup
 
-[View the full PDF writeup](writeup/Traffic_Light_FSM_Controller.pdf)
+[View the full PDF writeup](writeup/Traffic_Light_FSM_Controller_Writeup.pdf)
 
 ## Future Improvements
 
